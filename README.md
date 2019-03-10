@@ -31,7 +31,7 @@ link to your exercise files.
 **NOTE**: You can find the solutions to the exercises in the `solutions/`
 directory if you get stuck.
 
-**4. Keep the D3 documentation handy**
+**4. Reference the supporting documentation when needed**
 
 Selections
 * [Selecting Elements](https://github.com/d3/d3-selection#selecting-elements)
@@ -40,3 +40,6 @@ Selections
 Data
 * [Binding Data](https://github.com/d3/d3-selection#joining-data)
 * [Loading Data](https://github.com/d3/d3-fetch#api-reference)
+
+SVG
+* [Presentation Attributes](https://www.w3.org/TR/SVG/styling.html#PresentationAttributes)
