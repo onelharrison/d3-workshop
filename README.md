@@ -38,8 +38,15 @@ Selections
 * [Modifying Elements](https://github.com/d3/d3-selection#modifying-elements)
 
 Data
-* [Binding Data](https://github.com/d3/d3-selection#joining-data)
-* [Loading Data](https://github.com/d3/d3-fetch#api-reference)
+* [Joining Data](https://github.com/d3/d3-selection#joining-data)
+* [Fetching Data](https://github.com/d3/d3-fetch#api-reference)
 
 SVG
 * [Presentation Attributes](https://www.w3.org/TR/SVG/styling.html#PresentationAttributes)
+
+Scales and Axes
+* [Scales](https://github.com/d3/d3-scale#api-reference)
+* [Axes](https://github.com/d3/d3-axis#api-reference)
+
+## References
+* [Heights and Weights by Gender data set](https://www.kaggle.com/mustafaali96/weight-height)
