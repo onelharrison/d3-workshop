@@ -12,3 +12,21 @@ git clone https://github.com/onelharrison/d3-workshop
 cd d3-workshop
 npm install
 ```
+
+**3. Understand how to complete exercises**
+
+You will find directories named after each key section of the workshop in the
+`exercises/` directory. Starter code for the exercises in each section are
+found in those section directories.
+
+For example, the first exercise for the _selections_ section of the workshop is
+located at `exercises/selections/ex0.js`. Some exercies also have a css file that
+is named in the same way (e.g. `exercises/selections/ex0.css`).
+
+**Exercise instructions are found in an exercise's javascript file.**
+
+To see the effect of the code you have written, edit the `index.html` file to
+link to your exercise files.
+
+**NOTE**: You can find the solutions to the exercises in the `solutions/`
+directory if you get stuck.
