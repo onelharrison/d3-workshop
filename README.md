@@ -13,7 +13,18 @@ cd d3-workshop
 npm install
 ```
 
-**3. Understand how to complete exercises**
+**3. Server the project**
+```
+python3 -m http.server 8000
+```
+
+OR
+
+```
+python -m SimpleHTTPServer 8000
+```
+
+**4. Understand how to complete exercises**
 
 You will find directories named after each key section of the workshop in the
 `exercises/` directory. Starter code for the exercises in each section are
@@ -31,7 +42,7 @@ link to your exercise files.
 **NOTE**: You can find the solutions to the exercises in the `solutions/`
 directory if you get stuck.
 
-**4. Reference the supporting documentation when needed**
+**5. Reference the supporting documentation when needed**
 
 Selections
 * [Selecting Elements](https://github.com/d3/d3-selection#selecting-elements)
