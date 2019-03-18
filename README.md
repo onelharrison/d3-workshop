@@ -13,7 +13,7 @@ cd d3-workshop
 npm install
 ```
 
-**3. Server the project**
+**3. Serve the project**
 ```
 python3 -m http.server 8000
 ```
