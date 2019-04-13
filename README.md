@@ -59,5 +59,5 @@ Scales and Axes
 * [Scales](https://github.com/d3/d3-scale#api-reference)
 * [Axes](https://github.com/d3/d3-axis#api-reference)
 
-## References
+## Data set
 * [Heights and Weights by Gender data set](https://www.kaggle.com/mustafaali96/weight-height)
